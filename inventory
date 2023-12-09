@@ -1,0 +1,5 @@
+[ubuntu]
+192.168.5.59 ansible_python_interpreter=/usr/bin/python3
+
+[centos]
+192.168.5.214
